@@ -4,10 +4,6 @@ author: "likk"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Introduction
 The following project challenge is provided by Smarking. Smarking is a driven group of MIT PhDs, engineers, and business professionals who set out on a journey to bring cutting edge solutions to the parking world. In our current 11-person team, there are 5 people from MIT, 6 with PhD background, and two serial entrepreneurs. In the past year, our business grew at an average pace of over 40% month-over-month, and we are post-revenue.
 
@@ -48,13 +44,18 @@ Provide an interface to allow users to upload csv files with actual occupancy nu
  Step4: Add daily parking calendar, monthly heatmap, daily linechart, prediction chart and actual occupancy chart.
  
 ### Daily Parking Calendar
- <img src=“http://ogx7uv5qv.bkt.clouddn.com/calendar.png”>
+
+<img src=“http://ogx7uv5qv.bkt.clouddn.com/calendar.png” >
+ 
 ### Monthly Heatmap
-<img src=“http://ogx7uv5qv.bkt.clouddn.com/heatmap.png”>
+<img src=“http://ogx7uv5qv.bkt.clouddn.com/heatmap.png” >
+
 ### Daily Linechart
-<img src=“http://ogx7uv5qv.bkt.clouddn.com/linechart.png”>
+<img src=“http://ogx7uv5qv.bkt.clouddn.com/linechart.png” >
+
 ### Prediction Chart
-<img src=“http://ogx7uv5qv.bkt.clouddn.com/prediction.png”>
+<img src=“http://ogx7uv5qv.bkt.clouddn.com/prediction.png” >
+
 ### Actual Occupancy Chart
-<img src=“http://ogx7uv5qv.bkt.clouddn.com/actual_compare2.png”>
+<img src=“http://ogx7uv5qv.bkt.clouddn.com/actual_compare2.png” >
  
